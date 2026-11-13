@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Miguel Vieira 👋
 
-Desenvolvedor **Backend** focado no ecossistema **Java & Spring Boot**, apaixonado por arquitetura limpa, APIs escaláveis e resolução de problemas reais.
+Desenvolvedor **Backend** focado no ecossistema **Java & Spring Boot**, Construo APIs REST com Spring Boot e tenho experiência com microsserviços, mensageria e testes automatizados
 
 - 🎓 Graduando em Sistemas de Informação (FURB) | Formação Java (Entra21 & +Devs2Blu)
 - 📍 Blumenau, Santa Catarina - Brasil
